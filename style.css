@@ -154,12 +154,13 @@ footer {
 }
 
 /*Style for screenshots*/
-.project img{
+.project img {
   display: block;
-  width: 60%;
-  max-width: 200px;
-  height: auto;
-  margin: 0 auto 1rem;
+  width: 10%;              
+  max-width: 200px;        
+  height: auto;          
+  margin: 0 auto 1rem;    
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
