@@ -157,7 +157,7 @@ footer {
 .project img{
   display: block;
   width: 90%;
-  max-width: 350px;
+  max-width: 200px;
   height: auto;
   margin: 0 auto 1rem;
   border-radius: 8px;
