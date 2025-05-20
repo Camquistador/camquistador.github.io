@@ -36,7 +36,7 @@ Welcome! This is my personal portfolio site showcasing front-end development wor
 
 - **Email:** cameroncolivier@gmail.com  
 - **GitHub:** [@camquistador](https://github.com/camquistador)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/cameronolivier1234](https://www.linkedin.com/in/cameronolivier1234/)
 
 ---
 
