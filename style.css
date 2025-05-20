@@ -156,7 +156,7 @@ footer {
 /*Style for screenshots*/
 .project img{
   display: block;
-  width: 90%;
+  width: 60%;
   max-width: 200px;
   height: auto;
   margin: 0 auto 1rem;
