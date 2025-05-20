@@ -17,7 +17,7 @@ Welcome! This is my personal portfolio site showcasing front-end development wor
    A healthcare landing page with smooth scroll, form validation, and dark mode.  
    [Live Site](https://camquistador.github.io/Clinic-Landing-Page/) | [Repo](https://github.com/camquistador/Clinic-Landing-Page)
 
-2. **CareConnect Dashboard**  
+2. **MediMetric Dashboard**  
    A responsive dashboard UI with vibrant/soft theme toggle and intuitive layout.  
    [Live Site](https://camquistador.github.io/Dashboard/) | [Repo](https://github.com/camquistador/Dashboard)
 
